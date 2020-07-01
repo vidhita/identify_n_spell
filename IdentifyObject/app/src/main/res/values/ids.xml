@@ -1,0 +1,7 @@
+<resources>
+<item name="box1" type="id"/>
+<item name="box2" type="id"/>
+<item name="box3" type="id"/>
+    <item name="DestTableLayout" type="id" />
+
+</resources>
